@@ -1,0 +1,31 @@
+<resources>
+    <string name="new_to_do">New To-Do</string>
+    <string name="save_new_to_do">Save New To-Do</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_task">New Task</string>
+    <string name="save_new_task">Save New Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="description">Description</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_name_hint">Task Name</string>
+    <string name="name_of_task">Name of Task</string>
+    <string name="description_of_task">Description of Task</string>
+    <string name="done">Done?</string>
+    <string name="due_date_optional">Due Date (optional)</string>
+    <string name="_10_06_17_11_59">10/06/17 11:59</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="connection_indicator">Connection Indicator</string>
+    <string name="due_optional">Due (optional)</string>
+    <string name="_10_06_17">10/06/17</string>
+    <string name="_12_30_pm">12:30 PM</string>
+    <string name="clear">Clear</string>
+    <string name="back_to_main">Back To Main</string>
+    <string name="test">Test</string>
+    <string name="add_text">Add Text</string>
+    <string name="backup_log">Backup Log</string>
+    <string name="view_log">View Log</string>
+    <string name="clear_all">Clear All</string>
+    <string name="app_name">JonsToDos</string>
+</resources>
